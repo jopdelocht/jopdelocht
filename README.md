@@ -1,4 +1,4 @@
 - 👋 Hi, I’m John!
 - 👀 I’m interested in graphic design, software development, listening to music and hanging out with friends!
-- 🌱 I’m currently working as Front-End Developer at Fenego.
+- 🌱 I’m currently working as a Front-End Developer at Fenego.
 - 📫 How to reach me: https://www.linkedin.com/in/john-op-de-locht-61052544
